@@ -1,9 +1,11 @@
 # UCF-AI-Resources
 
 ## Computer Vision
- - [CAP 4453 Course](http://www.cs.ucf.edu/courses/cap4453/)
- - [CAP 5415 Course](https://www.crcv.ucf.edu/courses/cap5415-fall-2020/)
- - [CAP 6412 Course](https://www.crcv.ucf.edu/courses/cap6412-spring-2020/)
+ - [CAP 4453 Course - Robot Vision](http://www.cs.ucf.edu/courses/cap4453/)
+ - [CAP 5415 Course - Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2020/)
+ - [CAP 6412 Course - Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2020/)
+ - [CAP 5937 Course - Medical Image Computing](http://www.cs.ucf.edu/~bagci/teaching/mic17.html)
+ - [UCF CRCV](https://www.youtube.com/user/UCFCRCV)
  
 ## Reinforcement Learning
  - [RL Course by Pawel Wocjan](https://github.com/schneider128k/ai_course)
