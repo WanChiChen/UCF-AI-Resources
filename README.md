@@ -16,7 +16,7 @@
 ## Deep Learning
 - [CAP 4630 Course - Artificial Intelligence](https://github.com/schneider128k/machine_learning_course)
 
-# Computational Biology
+## Computational Biology
  
  - [CAP 6515 Course- Algorithms in Computation Biology](https://www.cs.ucf.edu/~shzhang/Combio12/index.html)
  - [CAP 6517 Course - Computational Genomics](https://www.cs.ucf.edu/~shzhang/CG12/index.html)
