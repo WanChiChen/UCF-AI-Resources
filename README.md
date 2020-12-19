@@ -9,10 +9,10 @@
  
 ## Reinforcement Learning
  - [RL Course by Pawel Wocjan](https://github.com/schneider128k/ai_course)
- - [CAP 5636 Course](http://www.cs.ucf.edu/~lboloni/Teaching/CAP5636_Fall2020/index.html)
+ - [CAP 5636 Course - Advanced Artificial Intelligence](http://www.cs.ucf.edu/~lboloni/Teaching/CAP5636_Fall2020/index.html)
  
 ## Deep Learning
-- [CAP 4630 Course](https://github.com/schneider128k/machine_learning_course)
+- [CAP 4630 Course - Artificial Intelligence](https://github.com/schneider128k/machine_learning_course)
 
 ## Etc
  - [Quantum Information Theory](https://github.com/schneider128k/quantum_info) [Slides](https://github.com/schneider128k/quantum_computing_slides)
