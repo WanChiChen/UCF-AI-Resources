@@ -28,3 +28,4 @@
 
 ## Non-UCF
 - [Georgia Tech CV Professor](https://www.cc.gatech.edu/~hays/)
+- [Introduction to Machine Learning - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
